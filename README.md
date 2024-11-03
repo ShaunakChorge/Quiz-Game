@@ -2,10 +2,6 @@
 
 # Quiz Game 🎮
 
-[![Language](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-success.svg)](https://github.com/ShaunakChorge/Quiz-Game)
-
 A console-based interactive quiz application designed to test and enhance your knowledge across various domains.
 
 [Features](#features) • [Installation](#installation) • [Usage](#usage) • [Topics](#available-topics) • [Contributing](#contributing)
@@ -36,6 +32,51 @@ Quiz Game is an interactive console-based application developed in C that offers
 - 📊 Score History
 - 🏅 Personal Best Records
 
+<!---
+## 🎮 Usage
+
+### First Time Users
+1. Select 'Register' option
+2. Create username and password
+3. Login with credentials
+4. Start playing!
+
+### Returning Users
+1. Select 'Login' option
+2. Enter credentials
+3. Choose topic and difficulty
+4. Begin quiz
+
+### Detailed Gameplay Guide 🎯
+
+1. **Start the Game**
+   - Register as a new user or login with existing credentials
+   - Secure authentication system ensures data privacy
+
+2. **Select Topic**
+   - Choose from 6 different categories
+   - Each topic has unique sets of questions
+   - Topics range from History to Sports
+
+3. **Choose Difficulty**
+   - Select Easy or Difficult mode
+   - Different question sets for each difficulty level
+   - Challenge yourself with harder questions
+
+4. **Play the Quiz**
+   - Answer multiple choice questions
+   - Get immediate feedback on your answers
+   - Accumulate points for correct answers
+   - Track your progress as you go
+
+5. **View Scores**
+   - Check your final score
+   - Compare with high scores
+   - Save your progress
+   - View global leaderboard
+
+--->
+
 ## 🚀 Installation
 
 ### Prerequisites
@@ -48,3 +89,8 @@ Quiz Game is an interactive console-based application developed in C that offers
 1. Clone the repository
 ```bash
 git clone https://github.com/ShaunakChorge/Quiz-Game.git
+```
+
+<div align="right">
+  <p>Made with ❤️ by Shaunak Chorge</p>
+</div>
