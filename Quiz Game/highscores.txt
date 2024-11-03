@@ -1,8 +1,0 @@
-Username             Score     
-==============================
-Shaunak              8         
-Shawn                7         
-admin                4         
-Sarr                 2         
-Amruta               2         
-user                 2         
