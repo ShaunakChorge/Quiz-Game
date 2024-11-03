@@ -12,18 +12,6 @@ A console-based interactive quiz application designed to test and enhance your k
 
 </div>
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Available Topics](#available-topics)
-- [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [Future Enhancements](#future-enhancements)
-- [License](#license)
-- [Author](#author)
 
 ## 📖 Overview
 
