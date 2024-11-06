@@ -4,8 +4,6 @@
 
 A console-based interactive quiz application designed to test and enhance your knowledge across various domains.
 
-[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Topics](#available-topics) • [Contributing](#contributing)
-
 </div>
 
 
