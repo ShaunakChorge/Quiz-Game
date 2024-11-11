@@ -84,7 +84,7 @@ Quiz Game is an interactive console-based application developed in C that offers
 
 ### Setup Instructions
 
-1. Clone the repository
+ Clone the repository
 ```bash
 git clone https://github.com/ShaunakChorge/Quiz-Game.git
 ```
