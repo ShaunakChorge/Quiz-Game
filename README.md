@@ -82,12 +82,37 @@ Quiz Game is an interactive console-based application developed in C that offers
 - Windows/Linux Operating System
 - Basic Command Line Knowledge
 
-### Setup Instructions
+### 📥 Setup Instructions
 
- Clone the repository
-```bash
-git clone https://github.com/ShaunakChorge/Quiz-Game.git
-```
+1. Clone the repository
+   ```bash
+   git clone https://github.com/ShaunakChorge/Quiz-Game.git
+   ```
+
+2. Compile the code: Use a C compiler to compile the source files. For example, using gcc:
+
+   ```bash
+   gcc -o quiz_game src/main.c src/user.c src/game.c src/highscore.c
+   ```
+
+3. Run the game: Execute the compiled program:
+    ```bash
+   ./quiz_game
+    ```
+
+## 🎮 How to Play
+- Start the game and choose to register or log in.
+- Select a topic and difficulty level.
+- Answer the questions presented to you.
+- Your score will be displayed at the end of the quiz.
+- You can choose to save your high score or play again.
+
+## 🎥 Demo
+![image](https://github.com/user-attachments/assets/457b7d70-e45a-42b5-8e2e-7b8147b36715)
+
+## 🤝 Contributing
+Contributions are welcome! If you have suggestions for improvements or additional features, feel free to open an issue or submit a pull request.
+
 
 <div align="right">
   <p>Made with ❤️ by Shaunak Chorge</p>
